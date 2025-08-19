@@ -1,0 +1,27 @@
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    margin-block: 3.35rem 0;
+    text-align: center;
+}
+
+p {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-block: 2.1875rem 0;
+
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    color: #fff;
+    background-color: blue;
+    border-radius: 2px;
+    cursor: default;
+    transition: all 0.2s;
+}
+button:hover{
+    background-color: green;
+}
